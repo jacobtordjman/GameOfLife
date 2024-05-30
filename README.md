@@ -15,7 +15,7 @@ This project is an implementation of Conway's Game of Life, a cellular automaton
 - README.md: Documentation for the project.
 
 # Screenshot
-<img width="439" alt="Screenshot 2024-05-23 102204" src="https://github.com/jacobturjeman/GameOfLife/assets/84174179/34fa8bcf-8479-460c-8796-689fa1d94a72">
+![ezgif com-video-to-gif-converter](https://github.com/jacobtordjman/GameOfLife/assets/84174179/4a10071d-469f-406d-8bf5-d38665865924)
 
 # Contributions
 Contributions are welcome! Please feel free to submit issues or pull requests.
