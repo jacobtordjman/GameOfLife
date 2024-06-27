@@ -1,4 +1,4 @@
-# GameOfLife
+# GmeOfLife
 This project is an implementation of Conway's Game of Life, a cellular automaton devised by mathematician John Conway. The game consists of a grid of cells that evolve through generations according to a set of simple rules. This project provides an interactive interface to visualize and control the simulation.
 
 # Features
